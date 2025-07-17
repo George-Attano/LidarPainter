@@ -1,6 +1,6 @@
-# FastLGS
+# LidarPainter
 
-This is the repository that contains source code for the [LidarPainter website](https://george-attano.github.io/FastLGS/).
+This is the repository that contains source code for the [LidarPainter website](https://george-attano.github.io/LidarPainter/).
 
 Website code is borrowed from [Nerfies](https://nerfies.github.io)
 
